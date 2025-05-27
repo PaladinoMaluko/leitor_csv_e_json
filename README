@@ -17,4 +17,4 @@ Ferramenta para processar arquivos CSV/JSON e gerar relatórios estatísticos au
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/leitor_csv_e_json.git
+   git clone https://github.com/PaladinoMaluko/leitor_csv_e_json.git
