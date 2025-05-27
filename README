@@ -1,15 +1,24 @@
-# Leitor de CSV/JSON
+# 📊 Leitor de CSV/JSON
 
-Processa arquivos CSV/JSON e gera relatórios com estatísticas.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![GitHub](https://img.shields.io/github/license/seu-usuario/leitor_csv_e_json?color=green)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-## Como Usar
-1. Instale Python 3.8+.
-2. Coloque seus arquivos em `data/input/`.
-3. No meu codigo, fiz baseado em boletim escolar, pode adaptar
-para suas necessidade se for preciso.
-4. Em `data/output/` saira o relatorio.txt com todas as informações
-5. **Execute**:
+Ferramenta para processar arquivos CSV/JSON e gerar relatórios estatísticos automatizados.
+
+## ✨ Funcionalidades
+- ✅ Leitura de arquivos **CSV** e **JSON**
+- 📈 Cálculo de métricas (médias, máximos, mínimos)
+- 📂 Geração automática de relatórios em `.txt`
+- 🛠️ Fácil adaptação para outros formatos de dados
+
+## 🚀 Como Usar
+
+### Pré-requisitos
+- Python 3.8+
+- Arquivos de entrada na pasta `data/input/`
+
+### Passo a Passo
+1. Clone o repositório:
    ```bash
-   python -m src.func_main  # Se estiver na raiz do projeto
-   ou
-   apenas execute main.py
+   git clone https://github.com/seu-usuario/leitor_csv_e_json.git
