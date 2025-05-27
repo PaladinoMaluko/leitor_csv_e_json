@@ -1,9 +1,5 @@
 # 📊 Leitor de CSV/JSON
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![GitHub](https://img.shields.io/github/license/seu-usuario/leitor_csv_e_json?color=green)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-
 Ferramenta para processar arquivos CSV/JSON e gerar relatórios estatísticos automatizados.
 
 ## ✨ Funcionalidades
