@@ -1,0 +1,15 @@
+# Leitor de CSV/JSON
+
+Processa arquivos CSV/JSON e gera relatórios com estatísticas.
+
+## Como Usar
+1. Instale Python 3.8+.
+2. Coloque seus arquivos em `data/input/`.
+3. No meu codigo, fiz baseado em boletim escolar, pode adaptar
+para suas necessidade se for preciso.
+4. Em `data/output/` saira o relatorio.txt com todas as informações
+5. **Execute**:
+   ```bash
+   python -m src.func_main  # Se estiver na raiz do projeto
+   ou
+   apenas execute main.py

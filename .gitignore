@@ -1,0 +1,5 @@
+data/output/   # Ignora a pasta de relatórios gerados
+__pycache__/
+*.pyc
+venv/
+.env
